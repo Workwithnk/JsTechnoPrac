@@ -1,0 +1,14 @@
+th,
+td {
+  border: 1px solid#C0C0C0;
+  padding: 4px 5px;
+}
+
+.EmployeeTable thead {
+  background-color: #9fa9bc;
+}
+
+.photo_ET img {
+  width: 28px;
+  height: 30px;
+}

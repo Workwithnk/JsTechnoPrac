@@ -19,7 +19,7 @@ function LeftPortal() {
               <h5>Employee</h5>
             </div>
             <div>
-              <span>10</span>
+              <span>5</span>
             </div>
           </li>
         </NavLink>
@@ -30,7 +30,7 @@ function LeftPortal() {
               <h5>Days Off</h5>
             </div>
             <div>
-              <span>6</span>
+              <span>0</span>
             </div>
           </li>
         </NavLink>
