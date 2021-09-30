@@ -1,0 +1,70 @@
+.TopBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #e3724b;
+  padding: 5px 0px;
+}
+
+/* firstPart_TopBar */
+.firstPart_TopBar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subPart_fPart_TB {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #ecf0f1;
+  padding: 3px 4px;
+  margin: 0px 3px;
+  background-color: #d3623b;
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+/* middleImage_TB */
+.middleImage_TB {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+.middleImage_TB img {
+  margin: 0px 0px;
+  height: 21px;
+}
+
+/* thirdPart_TopBar */
+.thirdPart_TopBar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subPart_tPart_TB {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #ecf0f1;
+  background-color: #d3623b;
+  border-radius: 4px;
+  padding: 3px 4px;
+  margin: 0px 5px;
+  font-size: 15px;
+}
+
+.image_Tpart_TB img {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: -6px 7px;
+}
+
+.icons_TB {
+  font-size: 14px;
+  margin-right: 2px;
+}

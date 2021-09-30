@@ -1,0 +1,107 @@
+.SecondBar {
+  display: flex;
+  padding-top: 4px;
+  background-color: #c3522b;
+}
+
+.iconSB {
+  cursor: pointer;
+}
+
+/* firstPart_SecondBar */
+.firstPart_SecondBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 20%;
+  padding: 0px 3px;
+  color: white;
+}
+
+.fItem_fPart_SB {
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.sItem_fPart_SB {
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.icons_SB {
+  font-size: 16px;
+  padding: 6px 2px;
+  cursor: pointer;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  background-color: #932210;
+}
+
+.gearIcon_SB {
+  padding: 5px 3px;
+}
+/* secondPart_SecondBar */
+
+.secondPart_SecondBar {
+  width: 80%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+/* secondPart_SecondBar fpart */
+.firstPart_SPart_SB {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.Parts_FPartSpart_SB {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0px 2px;
+  cursor: pointer;
+  padding: 5px 4px;
+  border-top-left-radius: 6px;
+  background-color: #932210;
+  border-top-right-radius: 6px;
+  color: white;
+  font-size: 15px;
+}
+.fpart_FPartSpart_SB {
+  background-color: white;
+  color: black;
+}
+.plusIcon_SB {
+  padding: 0px 0px;
+}
+
+/* secondPart_SPart_SB */
+.secondPart_SPart_SB {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Parts_SPartSpart_SB {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0px 2px;
+  cursor: pointer;
+  padding: 5px 4px;
+
+  border-radius: 6px;
+  color: white;
+  font-size: 15px;
+  margin-bottom: 2px;
+}
+.bgColor_Part_SB {
+  background-color: rgba(255, 220, 181, 0.2);
+}
+.icons_sPart_SB {
+  margin: 0px 3px;
+}
+.sortCount_SB {
+  margin: 0px 4px;
+}

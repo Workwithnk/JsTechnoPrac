@@ -1,0 +1,68 @@
+.LeftPart_Portal {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  width: 17%;
+
+  height: 90.5vh;
+  border-right: 2px solid #e0e0e0;
+}
+.Button_Lpart_Portal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e0e0e0;
+  color: #487eb0;
+  border: none;
+  outline: none;
+  text-decoration: none;
+  border-radius: 4px;
+  padding: 5px 14px;
+  width: 75%;
+  margin: 10px 0px;
+  cursor: pointer;
+}
+.Button_Lpart_Portal h5 {
+  color: #487eb0;
+  font-size: 15px;
+}
+.plus_LPart_Portal {
+  font-size: 20px;
+  margin-right: 5px;
+}
+.SubPart_LPart_Portal h5 {
+  font-size: 15px;
+  color: #8b90a0;
+}
+.list_LPart_Portal {
+  width: 17vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  padding: 5px 0px;
+  cursor: pointer;
+}
+.employee_LPart_Portal {
+  background-color: #e0e0e0;
+}
+.SubPart_LPart_Portal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 15px;
+}
+.list_LPart_Portal span {
+  background-color: #8b90a0;
+  color: white;
+  margin-right: 15px;
+  padding: 3px;
+}
+.SubPart_LPart_Portal h5 {
+  font-size: 15px;
+}
+.icon_LPart_Portal {
+  font-size: 20px;
+  color: #8b90a0;
+}
